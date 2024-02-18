@@ -1,4 +1,4 @@
-# Alagoas Mais Limpa
+# COVID Tracker
 
 Site desenvolvido para mostrar os casos em tempo de real das pessoas infectadas e curadas tendo um filtro mostrando os dados de cada país. Foi utilizada uma API para buscar tais informações. Tal projeto foi desenvolvido no intuito de aprender mais sobre API e a coneexão dela com o front-end.
 
